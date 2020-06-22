@@ -1,7 +1,7 @@
 # yushu_chunlei_data
 this is a collaborative project for data analysis
 
-#本项目主要包含3个部分
+#本项目主要包含5个部分
 
 1 数据收集，应用编程语言及package
   - python
